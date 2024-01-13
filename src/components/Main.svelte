@@ -58,6 +58,7 @@
       >
     </div>
     <div class="relative shadow-2xl grid place-items-center">
+      <!-- svelte-ignore a11y-img-redundant-alt -->
       <img
         src={"images/profile.png"}
         alt="Profile Image"
