@@ -41,7 +41,7 @@
       </h2>
       <p class="text-base sm:text-lg md:text-xl">
         My <span class="text-violet-400">favorite tech</span> includes Spring Boot,
-        Sprint REST API, (React or Swelte), .NET Core API, Python, Postgre/MySQL!
+        Sprint REST API, (React or Svelte), .NET Core API, Python, Postgre/MySQL!
       </p>
       <a
         class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins
